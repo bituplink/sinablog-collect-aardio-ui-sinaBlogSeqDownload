@@ -15,8 +15,8 @@
 
 ##### 获得exe执行程序
 * github releases下载
-* 访问官网下载
-* 访问百度云盘下载 
+* 访问官网下载: [官网](http://bituplink.com/sinaBlogSeqDownload.html)
+* 访问百度云盘下载: [百度网盘](https://pan.baidu.com/s/1yHbZgr5f1NUG_m9ySmwg_Q#list/path=%2F) 密码: px2w
 
 ### 运行说明
 * 下载exe文件,放在任意目录下,双击exe打开并执行程序
