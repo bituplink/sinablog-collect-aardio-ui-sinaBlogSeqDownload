@@ -17,6 +17,7 @@
 * github releases下载: [releases](https://github.com/bituplink/sinablog-collect-aardio-ui-sinaBlogSeqDownload/releases)
 * 访问官网下载: [官网](http://bituplink.com/sinaBlogSeqDownload.html)
 * 访问百度云盘下载: [百度网盘](https://pan.baidu.com/s/1yHbZgr5f1NUG_m9ySmwg_Q#list/path=%2F) 密码: px2w
+* 下载源码,并使用[aardio IDE](http://ide.update.aardio.com/releases/aardio.7z)加载项目文件,运行并发布后,在publish目录下获得
 
 ### 运行说明
 * 下载exe文件,放在任意目录下,双击exe打开并执行程序
