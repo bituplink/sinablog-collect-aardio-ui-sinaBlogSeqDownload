@@ -14,7 +14,7 @@
 * 由于aardio语法不熟悉,所以代码不优雅
 
 ##### 获得exe执行程序
-* github releases下载
+* github releases下载: [releases](https://github.com/bituplink/sinablog-collect-aardio-ui-sinaBlogSeqDownload/releases)
 * 访问官网下载: [官网](http://bituplink.com/sinaBlogSeqDownload.html)
 * 访问百度云盘下载: [百度网盘](https://pan.baidu.com/s/1yHbZgr5f1NUG_m9ySmwg_Q#list/path=%2F) 密码: px2w
 
