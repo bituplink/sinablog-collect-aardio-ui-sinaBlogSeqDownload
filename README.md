@@ -1,5 +1,7 @@
 # sinablog-collect-aardio-ui-sinaBlogSeqDownload
-这是一个简单的windows平台拥有界面的新浪博客下载工具,基于aardio开发 
+这是一个简单的windows平台拥有界面的新浪博客下载工具,基于aardio开发   
+
+* ![snapshot](http://bituplink.com/assets/img/sinaBlogSeqDownload.png)
 
 ##### 程序优点:  
 * win平台全支持,无需其他额外的组件支持
