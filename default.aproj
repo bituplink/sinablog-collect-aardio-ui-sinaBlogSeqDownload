@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<project ver="10" name="sinaBlogSeqDownload" libEmbed="true" icon="res\logo.ico" ui="win" output="sinaBlogSeqDownload.exe" CompanyName="bituplink" FileDescription="新浪博客接龙下载工具" LegalCopyright="Copyright (C) bituplink 2018" ProductName="sinaBlogSeqDownload" InternalName="sinaBlogSeqDownload" FileVersion="0.0.0.10" ProductVersion="0.0.0.10" publishDir="/Publish/" dstrip="false">
+	<file name="main.aardio" path="main.aardio" comment="main.aardio"/>
+	<folder name="资源文件" path="res" embed="true"/>
+</project>
