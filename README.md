@@ -1,7 +1,7 @@
 # sinablog-collect-aardio-ui-sinaBlogSeqDownload
 这是一个简单的windows平台拥有界面的新浪博客下载工具,基于aardio开发   
 
-![snapshot](http://bituplink.com/assets/img/sinaBlogSeqDownload.png)
+![snapshot](http://www.bituplink.com/wp-content/uploads/sinaBlogSeqDownload.png)
 
 ##### 程序优点:  
 * win平台全支持,无需其他额外的组件支持
@@ -15,7 +15,7 @@
 
 ##### 获得exe执行程序
 * github releases下载: [releases](https://github.com/bituplink/sinablog-collect-aardio-ui-sinaBlogSeqDownload/releases)
-* 访问官网下载: [官网](http://bituplink.com/sinaBlogSeqDownload.html)
+* 访问官网下载: [官网](http://www.bituplink.com/windows_sinablogseqdownload.html)
 * 访问百度云盘下载: [百度网盘](https://pan.baidu.com/s/1AFQIZXaWfq3UxvgssuUGyQ) 密码: y24t
 * 下载源码,并使用[aardio IDE](http://ide.update.aardio.com/releases/aardio.7z)加载项目文件,运行并发布后,在publish目录下获得
 
