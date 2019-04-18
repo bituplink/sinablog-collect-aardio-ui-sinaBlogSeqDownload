@@ -40,7 +40,7 @@
 如果觉得程序对你有帮助或者想要支持我(毕竟写程序和调试代码也是很费时费力的,哎呦,我的酸脖子和鼠标手呀 ┬＿┬),可以小额赞助下
 
 方式一: 支付宝捐助
-* ![alipay](http://www.bituplink.com/assets/img/alipay.png)
+* ![alipay](http://www.bituplink.com/wp-content/uploads/alipay.png)
 
 方式二: 微信捐助
-* ![wxpay](http://www.bituplink.com/assets/img/wxpay.png)
+* ![wxpay](http://www.bituplink.com/wp-content/uploads/wxpay.png)
